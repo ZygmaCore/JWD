@@ -4,14 +4,14 @@ import { Building } from 'lucide-react';
 
 const profileData = [
   { field: 'School Name', value: 'JWD Ahh School' },
-  { field: 'Address', value: '123 Education Lane, Knowledge City, 45678' },
-  { field: 'Principal', value: 'Dr. Evelyn Reed' },
+  { field: 'Address', value: 'Pesat' },
+  { field: 'Principal', value: 'Dr. Eko Sumanto' },
   { field: 'Established', value: '1995' },
   { field: 'School Type', value: 'Private, Co-educational' },
   { field: 'Grades', value: '1 - 12' },
   { field: 'Contact Email', value: 'contact@jwdahhschool.edu' },
-  { field: 'Contact Phone', value: '(123) 456-7890' },
-  { field: 'Motto', value: 'Excellence in Every Endeavor' },
+  { field: 'Contact Phone', value: '(123)' },
+  { field: 'Motto', value: 'RESPECT' },
 ];
 
 export default function SchoolProfilePage() {

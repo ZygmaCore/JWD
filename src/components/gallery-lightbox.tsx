@@ -6,16 +6,17 @@ import { Dialog, DialogContent } from '@/components/ui/dialog';
 import { cn } from '@/lib/utils';
 
 const images = [
-  { src: 'https://placehold.co/600x400.png', alt: 'Students in a classroom', hint: 'classroom students' },
-  { src: 'https://placehold.co/400x600.png', alt: 'School building exterior', hint: 'school building' },
-  { src: 'https://placehold.co/600x400.png', alt: 'Science lab experiment', hint: 'science lab' },
-  { src: 'https://placehold.co/600x400.png', alt: 'Students participating in sports day', hint: 'sports day' },
-  { src: 'https://placehold.co/400x600.png', alt: 'Art class in session', hint: 'art class' },
-  { src: 'https://placehold.co/600x400.png', alt: 'Students reading in the library', hint: 'library books' },
-  { src: 'https://placehold.co/600x400.png', alt: 'School band performing', hint: 'school band' },
-  { src: 'https://placehold.co/600x400.png', alt: 'Students on a field trip', hint: 'field trip' },
-  { src: 'https://placehold.co/400x600.png', alt: 'Graduation ceremony', hint: 'graduation ceremony' },
+  { src: 'https://anatajir.id/asset/foto_produk/IMG_20240327_074952.jpg', alt: 'icikiwir', hint: 'icikiwir' },
+  { src: 'https://anatajir.id/asset/foto_produk/IMG_20240327_074952.jpg', alt: 'icikiwir', hint: 'icikiwir' },
+  { src: 'https://anatajir.id/asset/foto_produk/IMG_20240327_074952.jpg', alt: 'icikiwir', hint: 'icikiwir' },
+  { src: 'https://anatajir.id/asset/foto_produk/IMG_20240327_074952.jpg', alt: 'icikiwir', hint: 'icikiwir' },
+  { src: 'https://anatajir.id/asset/foto_produk/IMG_20240327_074952.jpg', alt: 'icikiwir', hint: 'icikiwir' },
+  { src: 'https://anatajir.id/asset/foto_produk/IMG_20240327_074952.jpg', alt: 'icikiwir', hint: 'icikiwir' },
+  { src: 'https://anatajir.id/asset/foto_produk/IMG_20240327_074952.jpg', alt: 'icikiwir', hint: 'icikiwir' },
+  { src: 'https://anatajir.id/asset/foto_produk/IMG_20240327_074952.jpg', alt: 'icikiwir', hint: 'icikiwir' },
+  { src: 'https://anatajir.id/asset/foto_produk/IMG_20240327_074952.jpg', alt: 'icikiwir', hint: 'icikiwir' },
 ];
+
 
 export function GalleryLightbox() {
   const [selectedImage, setSelectedImage] = useState<string | null>(null);

@@ -32,7 +32,7 @@ export function Footer() {
           </nav>
         </div>
         <div className="mt-8 border-t pt-4 text-center text-sm text-muted-foreground">
-          <p>&copy; {currentYear} JWD Ahh School. All Rights Reserved.</p>
+          <p>&copy; {currentYear} ZygmaCore. All Rights Reserved.</p>
         </div>
       </div>
     </footer>
