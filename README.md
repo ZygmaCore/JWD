@@ -36,14 +36,6 @@ Open your browser to `http://localhost:3000` to see the application.
 
 The application can be configured via the `next.config.ts` file. Currently, it includes configurations for ignoring TypeScript and ESLint errors during builds and allowing images from `anatajir.id`.
 
-## Firebase Configuration (if applicable)
-
-If using Firebase, ensure your Firebase configuration is correctly set up. The provided code snippet suggests potential Firebase usage for handling records with read permissions.
-
-## PDF Handling (if applicable)
-
-The provided code snippet also shows an example of handling PDF files, potentially for document uploads or processing within the application.
-
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
